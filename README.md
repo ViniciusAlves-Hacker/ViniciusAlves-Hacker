@@ -12,7 +12,6 @@
 
 <h2> 🧐 Estudando no momento: </h2>
 
-<h5>✔ Dart / Flutter</h5>
 <div style="display: inline_block"><br>
   <img align="center" alt="vinny-Js" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg">
