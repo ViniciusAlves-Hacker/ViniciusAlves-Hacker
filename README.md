@@ -1,8 +1,8 @@
-Olá, eu sou o Vinicius Alves!
+Meu nome é Vinicius Alves e sou desenvolvedor front-end baseado em Belo Horizonte/MG, Brasil.
 
-✔ Estou estudando na Gama Academy Xp41
+✔ 2022 ==> Bootcamp Gama Academy Xp41 - Dev Full Stack
 
-✔ Em breve serei um Dev Full Stack 
+✔ Desenvolvedor Flutter (mobile, web, desktop
 
 ✔ Estou em transição de carreira 
 
